@@ -1,0 +1,56 @@
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    margin-top: 0px;
+    background-color: cadetblue;
+    cursor: pointer;
+    z-index: 10;
+
+}
+
+.link {
+    display: inline;
+    padding-left: 100px;
+    padding-right: 90px;
+    font-family: 'Jomhuria', cursive;
+    font-size: 40;
+}
+
+.link:hover {
+
+    background-color: aqua;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#gif {
+    width: 1000px;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+#gridphotos {
+    width: 160px;
+    height: 160px;
+}
+#slivi {
+    background-color: chartreuse;
+}
+#slivi {
+    background-color: chartreuse;
+}
+#grvi {
+    background-color: chartreuse;
+}
+#home {
+    background-color: chartreuse;
+}
